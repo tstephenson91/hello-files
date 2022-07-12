@@ -1,0 +1,24 @@
+{
+  "name": "hello-files",
+  "version": "1.0.0",
+  "description": "Labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tstephenson91/hello-files.git"
+  },
+  "author": "Tiffany Stephenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tstephenson91/hello-files/issues"
+  },
+  "homepage": "https://github.com/tstephenson91/hello-files#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
